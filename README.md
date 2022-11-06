@@ -1,4 +1,4 @@
-### Olá eu sou o Lucas Santana
+### Olá, eu sou o Lucas Santana
 
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/larean)[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PQkVY6sSq9)[![Blog](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://larean.com.br)
 
@@ -14,6 +14,6 @@
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <div/>
 
-Eu amo aprender Tecnologia!
+Eu amo aprender Tecnologia! sempre
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macshinaider)](https://github.com/macshinaider/github-readme-stats)
