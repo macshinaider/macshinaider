@@ -13,3 +13,7 @@
 <img alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <div/>
+
+Eu amo aprender Tecnologia!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macshinaider)](https://github.com/macshinaider/github-readme-stats)
