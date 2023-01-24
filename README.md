@@ -16,6 +16,5 @@
 
 Eu amo aprender Tecnologia! sempre
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macshinaider)](https://github.com/macshinaider/github-readme-stats)
   
 ![snake gif](https://github.com/macshinaider/macshinaider/blob/output/github-contribution-grid-snake.svg)
