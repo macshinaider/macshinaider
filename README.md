@@ -3,10 +3,11 @@
 
 ## Sobre mim
 - 🔭 Estou trabalhando como [TI].
-- 🌱 Atualmente, estou aprendendo [o que você está aprendendo].
+- 🌱 Atualmente, estou aprendendo [Bun].
 - 👯 Estou procurando colaborar em [projetos interessantes].
-- 💬 Pergunte-me sobre [suas áreas de conhecimento].
-- 📫 Como chegar até mim: [seu email ou redes sociais].
+- 📫 Como chegar até mim:
+  - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](link-para-o-seu-whatsapp)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link-para-o-seu-linkedin)
 
 ## Linguagens e Ferramentas
 ![CSS](https://img.shields.io/badge/CSS-3C8CE7?style=for-the-badge&logo=css3&logoColor=white)
