@@ -22,7 +22,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=macshinaider&show_icons=true&theme=radical)
 
 ## Projetos Destacados
 - [Projeto 1](link-para-o-projeto-1)
