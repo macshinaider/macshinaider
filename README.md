@@ -29,9 +29,7 @@
 - [Projeto 2](link-para-o-projeto-2)
 
 ## Minhas Redes Sociais
-- [LinkedIn](link-para-o-seu-linkedin)
-- [Twitter](link-para-o-seu-twitter)
-- [Instagram](link-para-o-seu-instagram)
+- [LinkedIn](https://www.linkedin.com/in/macshinaider/)
 
 ## Contribuições
 Contribuições são bem-vindas! Se você quiser colaborar em algum dos meus projetos ou tiver alguma sugestão, sinta-se à vontade para entrar em contato.
