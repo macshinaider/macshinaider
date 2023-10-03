@@ -1,5 +1,5 @@
 <!-- Seu Nome -->
-# Olá, eu sou [Lucas Santana] 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Lucas;Seja+bem+Vindo+em+meu+Perfil)](https://git.io/typing-svg)
 
 ## Sobre mim
 - 🔭 Estou trabalhando como [TI].
