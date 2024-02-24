@@ -1,27 +1,30 @@
-<h1 align="center">Olá 👋, Meu Nome é Lucas Santana</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1+%2C+meu+nome+%C3%A9+Lucas+Santana+;Sejam+Bem+Vindos+em+Meu+Perfil;Minhas+Redes+Sociais+est%C3%A3o+logo+Abaixo)](https://git.io/typing-svg)
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macshinaider&label=Profile%20views&color=0e75b6&style=flat" alt="macshinaider" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=macshinaider" alt="macshinaider" /></a> </p>
 
-- 🔭 I’m currently working on [EiChefe](https://github.com/macshinaider/eichefe)
+- 🔭 Estou trabalhando atualmente em [EiChefe](https://github.com/macshinaider/eichefe)
 
-- 🌱 I’m currently learning **Next.js, React,js**
+- 🌱 Atualmente estou aprendendo **Next.js, React,js, Rust**
 
-- 👯 I’m looking to collaborate on [GoogleComments](https://github.com/macshinaider/GoogleComents)
+- 👯 Estou procurando colaborar em [GoogleComments](https://github.com/macshinaider/GoogleComents)
 
 - 👨‍💻 All of my projects are available at [https://github.com/macshinaider/eichefe](https://github.com/macshinaider/eichefe)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Work**
 
-- 📫 How to reach me **lucasadd15@gmail.com**
+- 📫 Como chegar até mim **lucasadd15@gmail.com**
+
+- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/macshinaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macshinaider" height="30" width="40" /></a>
 <a href="https://fb.com/luuhsantanafs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luuhsantanafs" height="30" width="40" /></a>
 <a href="https://discord.gg/ursaaoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ursaaoo" height="30" width="40" /></a>
+<a href="https://wa.me/551234567890" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
