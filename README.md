@@ -25,9 +25,10 @@
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=macshinaider&show_icons=true&theme=radical)
 
+
 ## Projetos Destacados
 - [Projeto 1](link-para-o-projeto-1)
-- [Projeto 2](link-para-o-projeto-2)
+- [GoogleComments](https://github.com/macshinaider/GoogleComents)
 
 ## Minhas Redes Sociais
 - [LinkedIn](https://www.linkedin.com/in/macshinaider/)
