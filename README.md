@@ -17,14 +17,14 @@
 
 - 📫 Como chegar até mim **lucasadd15@gmail.com**
 
-- ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/macshinaider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macshinaider" height="30" width="40" /></a>
 <a href="https://fb.com/luuhsantanafs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luuhsantanafs" height="30" width="40" /></a>
 <a href="https://discord.gg/ursaaoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ursaaoo" height="30" width="40" /></a>
-<a href="https://wa.me/551234567890" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="40" /></a>
+<a href="https://wa.me/551234567890" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
