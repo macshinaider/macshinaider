@@ -11,9 +11,9 @@
 
 - 👯 Estou procurando colaborar em [GoogleComments](https://github.com/macshinaider/GoogleComents)
 
-- 👨‍💻 All of my projects are available at [https://github.com/macshinaider/eichefe](https://github.com/macshinaider/eichefe)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/macshinaider/eichefe](https://github.com/macshinaider)
 
-- 💬 Ask me about **Work**
+- 💬 Pergunte sobre **Work**
 
 - 📫 Como chegar até mim **lucasadd15@gmail.com**
 
