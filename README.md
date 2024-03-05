@@ -7,7 +7,7 @@
 
 - 🔭 Estou trabalhando atualmente em [EiChefe](https://github.com/macshinaider/eichefe)
 
-- 🌱 Atualmente estou aprendendo **Next.js, React,js, Rust**
+- 🌱 Atualmente estou aprendendo **Rust**
 
 - 👯 Estou procurando colaborar em [GoogleComments](https://github.com/macshinaider/GoogleComents)
 
